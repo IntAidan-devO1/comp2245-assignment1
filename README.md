@@ -1,6 +1,6 @@
 # COMP2245 Assignment 1
 
-This assigment is for <Aidan Francis>
+This assigment is for Aidan Francis
 
 ## Branching
 
